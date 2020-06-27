@@ -1,0 +1,30 @@
+.login{
+    height: 100%;
+    width: 400px;
+    margin: 250px auto;
+    background-color: #ffffff;
+    border-radius: 1rem;
+    padding: 1rem;
+    .logo{
+        border-radius: 50%;
+        background-color: #e3eae5;
+        width: 5rem;
+        height: 5rem;
+        padding-top: .25rem;
+        margin: auto;
+        text-align: center;
+        font-size: 48px;
+        color: #fc5441;
+    }
+    .form{
+        margin: 1rem;
+        text-align: center;
+        li{
+            text-align: left;
+        }
+        button{
+            background-color: #fc5441;
+            border: 1px solid #fc5441;
+        }
+    }
+}
